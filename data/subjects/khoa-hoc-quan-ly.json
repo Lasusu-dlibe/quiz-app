@@ -1,0 +1,2733 @@
+{
+  "id": "khoa-hoc-quan-ly",
+  "name": "Khoa học quản lý",
+  "description": "Tổng hợp trắc nghiệm môn Khoa học quản lý",
+  "questionCount": 234,
+  "questions": [
+    {
+      "question": "Quản trị đc thực hiện trong 1 tổ chức nhằm:",
+      "options": {
+        "A": "Tối đa hóa lợi nhuận",
+        "B": "Đạt mục tiêu của tổ chức",
+        "C": "Sử dụng có hiểu quả cao nhất các nguồn lực",
+        "D": "Đạt đc mục tiêu của tổ chức với hiệu suất cao"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 1
+    },
+    {
+      "question": "Điền vào chỗ trống : quản trị là những hoạt động cần thiết khi có nhiều người kết hợp với nhau trong 1 tổ chức nhằm thực hiện …… chung”:",
+      "options": {
+        "A": "Mục tiêu",
+        "B": "Lợi nhuận",
+        "C": "Kế hoạch",
+        "D": "Lợi ích"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 2
+    },
+    {
+      "question": "Điền vào chỗ trống “Hoạt động quản trị chịu sự tác động của …… đang biến động không ngừng”:",
+      "options": {
+        "A": "Kỹ thuật",
+        "B": "Công nghệ",
+        "C": "Kinh tế",
+        "D": "Môi truờng"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 3
+    },
+    {
+      "question": "Quản trị cần thiết cho:",
+      "options": {
+        "C": "Các đơn vị hành chính sự nghiệp",
+        "D": "Các công ty lớn"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 4
+    },
+    {
+      "question": "Điền vào chỗ trống “quản trị hướng tổ chức đạt mục tiêu với … cao nhất và chi phí thấp nhất”:",
+      "options": {
+        "A": "Sự thỏa mãn",
+        "B": "Lợi ích",
+        "C": "Kết quả",
+        "D": "Lợi nhuận"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 5
+    },
+    {
+      "question": "Để tăng hiệu suất quản trị, các nhà quản trị có thể thực hiện bằng cách:",
+      "options": {
+        "A": "Giảm chi phí ở đầu vào và doanh thu ở đầu ra không thay đổi",
+        "B": "Chi phí ở đầu vào k thay đổi và tăng doanh thu ở đầu ra",
+        "C": "Vừa giảm chi phí ở đầu vào và vừa tăng doanh thu ở đầu ra",
+        "D": "Tất cả những cách trên"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 6
+    },
+    {
+      "question": "Quản trị viên trung cấp trường tập trung vào việc ra các loại quyết định:",
+      "options": {
+        "A": "Chiến lược",
+        "B": "Tác nghiệp",
+        "C": "Chiến thuật",
+        "D": "Tất cả các loại quyết định trên"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 7
+    },
+    {
+      "question": "Càng xuống cấp thấp hơn thời gian dành cho chức năng quản trị nào sẽ càng quan trọng:",
+      "options": {
+        "A": "Hoạch định",
+        "B": "Tổ chức và kiểm trả",
+        "C": "Điều khiển",
+        "D": "Tất cả các chức năng trên"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 8
+    },
+    {
+      "question": "Càng lên cấp cao hơn, thời gian dành cho chức năng quản trị nào sẽ càng quan trọng:",
+      "options": {
+        "A": "Hoạch định",
+        "B": "Tổ chứcC. Điều khiểnD. Kiểm tra"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 9
+    },
+    {
+      "question": "Nhà quản trị phân bố thời gian nhiều nhất cho việc thực hiện chức năng:",
+      "options": {
+        "A": "Hoạch định",
+        "B": "Điểu khiển và kiểm tra",
+        "C": "Tổ chức",
+        "D": "Tất cả phương án trên đều không chính xác"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 10
+    },
+    {
+      "question": "Nhà quản trị cấp cao cần thiết nhất kỹ năng:",
+      "options": {
+        "A": "Nhân sự",
+        "B": "Tư duy",
+        "C": "Kỹ thuật",
+        "D": "Kỹ năng tư duy + nhân sự"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 11
+    },
+    {
+      "question": "Mối quan hệ giữa các cấp bậc quản trị và các kỹ năng của ngành quản trị là:",
+      "options": {
+        "A": "Ở bậc quản trị càng cao kỹ năng kỹ thuật càng có tầm quan trọng",
+        "B": "Ở bậc quản trị càng cao kỹ năng nhân sự càng có tầm quan trọng",
+        "C": "Kỹ năng nhân sự có tầm quan trọng như nhau đối với các cấp bậc quản trị",
+        "D": "Tất cả các phương án trên điều sai"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 12
+    },
+    {
+      "question": "Hoạt động quản trị thị trường được thực hiện thông qua 4 chức năng:",
+      "options": {
+        "A": "Hoạch định, tổ chức, điều khiển, kiểm tra",
+        "B": "Hoạch định, nhân sự, chỉ huy, phối hợp",
+        "C": "Hoạch định, tổ chức, phối hợp, báo cáo",
+        "D": "Kế hoạch, chỉ đạo, tổ chức, kiểm tra"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 13
+    },
+    {
+      "question": "Trong 1 tổ chức, các cấp bậc quản trị thừơng đc chia thành:",
+      "options": {
+        "A": "2 cấp quản trị",
+        "B": "3 cấp quản trị",
+        "C": "4 cấp quản trị",
+        "D": "5 cấp quản trị"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 14
+    },
+    {
+      "question": "Cố vấn cho ban giám đốc của 1 doanh nghiệp thuộc cấp quản trị:",
+      "options": {
+        "A": "Cấp cao",
+        "B": "Cấp giữa",
+        "C": "Cấp thấp (cơ sở)",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 15
+    },
+    {
+      "question": "Điền vào chỗ trống “chức năng hoạch định nhằm xác định mục tiêu cần đạt được và đề ra … hành động để đạt mục tiêu trong từng khoảng thời gian nhất định”:",
+      "options": {
+        "A": "Quan điểm",
+        "B": "Chương trình",
+        "C": "Giới hạn",
+        "D": "Cách thức"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 16
+    },
+    {
+      "question": "Quan hệ giữa cấp bậc quản trị và các kỹ năng:",
+      "options": {
+        "A": "Chức vụ càng thấp thì kĩ năng về kỹ thuật càng quan trọng",
+        "B": "Chức vụ càng cao thì kỹ năng về tu duy càng quan trọng",
+        "C": "Nhà quản trị cần tất cả các kỹ năng, tuy nhiên chức vụ càng cao thì kỹ năng tư duy càng quan trọng",
+        "D": "Tất cả những tuyên bố nêu trên đều sai"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 17
+    },
+    {
+      "question": "Kỹ năng nào cần thiết ở mức độ như nhau đối với các nhà quản trị:",
+      "options": {
+        "A": "Tư duy",
+        "B": "Kỹ thuật",
+        "C": "Nhân sự",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 18
+    },
+    {
+      "question": "Vai trò nào đã được thực hiện khi nhà quản trị đưa ra 1 quyết định để phát triển kinh doanh:",
+      "options": {
+        "A": "Vai trò người lãnh đạo",
+        "B": "Vai trò người đại diện",
+        "C": "Vai trò người phân bố tài nguyên",
+        "D": "Vai trò người doanh nhân"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 19
+    },
+    {
+      "question": "Điền vào chỗ trống “Nhà quản trị cấp thấp thì kỹ năng … càng quan trọng”:",
+      "options": {
+        "A": "Nhân sự",
+        "B": "Chuyên môn",
+        "C": "Tư duy",
+        "D": "Giao tiếp"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 20
+    },
+    {
+      "question": "Mục tiêu của quản trị trong 1 tổ chức là:",
+      "options": {
+        "A": "Đạt được hiệu quả và hiệu suất cao",
+        "B": "Sử dụng hợp lý các nguồn lực hiện có"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 21
+    },
+    {
+      "question": "Phát biểu nào sau đây là đúng về Quản trị khoa học quản lý?",
+      "options": {
+        "A": "Quản trị cần thiết đối với bệnh viện",
+        "B": "Quản trị cần thiết đối với trường đại học",
+        "C": "Quản trị chỉ cần thiết đối với tổ chức có quy mô lớn",
+        "D": "Quản trị cần thiết đối với doanh nghiệp"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 22
+    },
+    {
+      "question": "Quản trị cần thiết trong các tổ chức để:",
+      "options": {
+        "A": "Đạt được lợi nhuận",
+        "B": "Giảm chi phí",
+        "C": "Đạt được mục tiêu với hiệu suất cao",
+        "D": "Tạo trật tự trong 1 tổ chức"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 23
+    },
+    {
+      "question": "Để tăng hiệu quả, các nhà quản trị có thể thực hiện bằng cách:",
+      "options": {
+        "A": "Giảm chi phí ở đầu vào và kết quả ở đầu ra không thay đổi",
+        "B": "Chi phí ở đầu vào không đổi và tăng kết quả đầu ra",
+        "C": "Vừa giảm chi phí ở đầu vào và tăng kết quả đầu ra",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 24
+    },
+    {
+      "question": "Để đạt hiệu quả, các nhà quản trị cần phải:",
+      "options": {
+        "A": "Xác định và hoàn thành đúng mục tiêu",
+        "B": "Giảm chi phí đầu vào"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 25
+    },
+    {
+      "question": "Trong quản trị doanh nghiệp quan trọng nhất là:",
+      "options": {
+        "A": "Xác định đúng lĩnh vực hoạt động tổ chức",
+        "B": "Xác định đúng quy mô của tổ chức",
+        "C": "Xác định đúng trình độ và số lượng đội ngũ nhân viên",
+        "D": "Xác định đúng chiến lược phát triển của doanh nghiệp"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 26
+    },
+    {
+      "question": "Nhà quản trị cấp thấp cần tập trung thời gian nhiều nhất cho chức năng nào sau đây?",
+      "options": {
+        "A": "Hoạch định",
+        "B": "Tổ chức và kiểm tra"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 27
+    },
+    {
+      "question": "Thời gian dành cho chức năng hoạch định sẽ cần nhiều hơn đối với nhà quản trị:",
+      "options": {
+        "A": "Cấp cao",
+        "B": "Cấp trungC. Cấp thấpD. Tất cả các nhà quản tr"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 28
+    },
+    {
+      "question": "Nhà quản trị cần phân bố thời gian nhiều nhất cho việc thực hiện chức năng:",
+      "options": {
+        "A": "Hoạch định và kiểm tra",
+        "B": "Điều khiển và kiểm tra",
+        "C": "Hoạch định và tổ chức",
+        "D": "Tất cả phương án trên đều không chính xác"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 29
+    },
+    {
+      "question": "Nhà quản trị cấp thấp cần thiết nhất?",
+      "options": {
+        "A": "Kỹ năng nhân sự",
+        "B": "Kỹ năng nhân sự + kỹ năng kỹ thuật"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 30
+    },
+    {
+      "question": "Các chức năng cơ bản theo quản trị học hiện đại gồm:",
+      "options": {
+        "A": "3 chức năng",
+        "B": "4 chức năng",
+        "C": "5 chức năng",
+        "D": "6 chức năng"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 31
+    },
+    {
+      "question": "Theo Henry Minzberg, các nhà quản trị phải thực hiện bao nhiêu vai trò:",
+      "options": {
+        "A": "4",
+        "B": "7",
+        "C": "10",
+        "D": "14"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 32
+    },
+    {
+      "question": "Nghiên cứu của Henry Minzberg đã nhận dạng 10 vai trò của nhà quản trị và phân loại thành 3 nhóm vai trò, đó là:",
+      "options": {
+        "A": "Nhóm vai trò lãnh đạo, vai trò thông tin, vai trò ra quyết định",
+        "B": "Nhóm vai trò tương quan nhân sự, vai trò xử lý các xung đột, vai trò ra quyết định",
+        "C": "Nhóm vai trò tương quan nhân sự, vai trò thông tin, vai trò ra quyết định",
+        "D": "Nhóm vai trò liên lạc, vai trò phân bố tài nguyên, vai trò thương thuyết"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 33
+    },
+    {
+      "question": "Hiệu suất của quản trị chỉ có được khi:",
+      "options": {
+        "A": "Làm đúng việc",
+        "B": "Làm việc đúng cách",
+        "C": "Chi phí thấp",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 34
+    },
+    {
+      "question": "Trong quản trị tổ chức, quan trọng nhất là:",
+      "options": {
+        "A": "Làm đúng việc",
+        "B": "Làm việc đúng cách",
+        "C": "Đạt được lợi nhuận",
+        "D": "Chi phí thấp"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 35
+    },
+    {
+      "question": "Hiệu quả và hiệu suất của quản trị chỉ có được khi:",
+      "options": {
+        "A": "Làm đúng việc",
+        "B": "Làm đúng cách",
+        "C": "Tỷ lệ giữa kết quả đạt đc/ chi phí bỏ ra cao",
+        "D": "Làm đúng cách để đạt được mục tiêu"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 36
+    },
+    {
+      "question": "Nhà quản trị thực hiện vai trò gì khi đưa ra quyết định áp dụng công nghệ mới vào sản xuất:",
+      "options": {
+        "A": "Vai trò người thực hiện",
+        "B": "Vai trò người đại diện",
+        "C": "Vai trò người phân bổ tài nguyên",
+        "D": "Vai trò nhà kinh doanh"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 37
+    },
+    {
+      "question": "Nhà quản trị thực hiện vai trò gì khi giải quyết vấn đề bãi công xảy ra trong doanh nghiệp:",
+      "options": {
+        "A": "Vai trò nhà kinh doanh",
+        "B": "Vai trò người giải quyết xáo trộn",
+        "C": "Vai trò người thương thuyếtD. Vai trò người lãnh đạo"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 38
+    },
+    {
+      "question": "Nhà quản trị thực hiện vai trò gì khi đàm phán với đối tác về việc tăng đơn giá gia công tròn quá trình thảo luận hợp đồng với họ:",
+      "options": {
+        "A": "Vai trò người liên lạc",
+        "B": "Vai trò người thương thuyết",
+        "C": "Vai trò người lãnh đạo",
+        "D": "Vai trò người đại diện"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 39
+    },
+    {
+      "question": "Mối quan hệ giữa khoa học và nghệ thuật quản trị được diễn đạt rõ nhất trong câu:",
+      "options": {
+        "A": "Khoa học là nền tảng đề hình thành nghệ thuật",
+        "B": "Trực giác là quan trọng để thành công trong quản trị",
+        "C": "Cần vận dụng đúng các nguyên tắc khoa học vào quản trị",
+        "D": "Có mối quan hệ biện chứng giữa khoa học và nghệ thuật quản trị"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 40
+    },
+    {
+      "question": "Phát biểu nào sau đây không đúng về Khoa học quản trị?",
+      "options": {
+        "A": "Trực giác là quan trọng để thành công trong quản trị",
+        "B": "Có mối quan hẹ biện chứng giữa khoa học và nghệ thuật quản trị",
+        "C": "Cần vận dụng đúng các nguyên tắc khoa học vào quản trị",
+        "D": "Khoa học là nền tảng để hình thành nghệ thuật quản trị"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 41
+    },
+    {
+      "question": "Nghệ thuật quản trị có được từ:",
+      "options": {
+        "A": "Từ cha truyền con nối",
+        "B": "Khả năng bẩm sinh",
+        "C": "Trải nghiệm qua thực hành quản trị",
+        "D": "Các chương trình đào tạo"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 42
+    },
+    {
+      "question": "Phát biểu nào sau đây không đúng về nghệ thuật quản trị:",
+      "options": {
+        "A": "Nghệ thuật quản trị không thể học được",
+        "B": "Có được từ di truyền",
+        "C": "Trải nghiệm qua thực hành quản trịD. Khả năng bẩm sinh"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 43
+    },
+    {
+      "question": "Quản trị theo học thuyết Z là:",
+      "options": {
+        "A": "Quản trị theo cách của Mỹ",
+        "B": "Quản trị theo cách của Nhật Bản",
+        "C": "Quản trị kết hợp theo cách của Mỹ và của Nhận BảnD. Các cách hiểu trên đều sai"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 44
+    },
+    {
+      "question": "Học thuyết Z chú trọng tới:",
+      "options": {
+        "A": "Mối quan hệ con người trong tổ chức",
+        "B": "Vấn đề lương bổng cho người lao động",
+        "C": "Sử dụng người dài hạnD. Đào tạo đa năng"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 45
+    },
+    {
+      "question": "Điền vào chỗ trống “trường phái quản trị khoa học quan tâm đến … lao động thông qua việc hợp lý hóa các bước công việc:",
+      "options": {
+        "A": "Điều kiện",
+        "B": "Năng suất",
+        "C": "Môi trường",
+        "D": "Trình độ"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 46
+    },
+    {
+      "question": "Tác giả của học thuyết Z là",
+      "options": {
+        "A": "Người Mỹ",
+        "B": "Người Nhật",
+        "C": "Người Mỹ gốc Nhật",
+        "D": "Một người khác"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 47
+    },
+    {
+      "question": "Điểm quan tâm chung giữa các trường phái QT khoa học, QT Hành chính, QT định lượng là:",
+      "options": {
+        "A": "Con người",
+        "B": "Năng suất lao động",
+        "C": "Cách thức quản trị",
+        "D": "Lợi nhuận"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 48
+    },
+    {
+      "question": "Tác giả của học thuyết X là:",
+      "options": {
+        "A": "William Ouchi",
+        "B": "Frederick Herzberg",
+        "C": "Douglas McGregor",
+        "D": "Henry Fayo"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 49
+    },
+    {
+      "question": "Điền vào chỗ trống “ trường phái tâm lý - xã hội trong quản trị nhấn mạnh đến vai trò của yếu tố tâm lý, quan hệ … của con người trong xã hội”:",
+      "options": {
+        "A": "Xã hội",
+        "B": "Bình đẳng",
+        "C": "Đẳng cấp",
+        "D": "Lợi ích"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 50
+    },
+    {
+      "question": "Lý thuyết “Quản trị khoa học” đc xếp vào trường phái quản trị nào?",
+      "options": {
+        "A": "Trường phái tâm lý – xã hội",
+        "B": "Trường phái quản trị định lượng",
+        "C": "Trường phái quản trị cổ điểnD. Trường phái quản trị hiện đại"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 51
+    },
+    {
+      "question": "Điểm quan tâm chung của các trường phái quản trị là",
+      "options": {
+        "A": "Năng suất lao động",
+        "B": "Con người",
+        "C": "Hiệu quả",
+        "D": "Lợi nhuận"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 52
+    },
+    {
+      "question": "Tư tưởng của trường phái quản trị tổng quát (hành chính) thể hiện qua:",
+      "options": {
+        "A": "4 nguyên tắc của W.Taylor",
+        "B": "6 phạm trù của công việc quản trị",
+        "C": "14 nguyên tắc của H.FaytolD. Mô hình tổ chức quan liêu bàn giấy"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 53
+    },
+    {
+      "question": "\"Trường phái quản trị quá trình” được Harold koontz đề ra trên cơ sở tư tưởng của:",
+      "options": {
+        "A": "H. Fayol",
+        "B": "M.Weber",
+        "C": "R.Owen",
+        "D": "W.Taylor"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 54
+    },
+    {
+      "question": "Điền vào chỗ trống “Theo trường phái định lượng tất cả các vấn đề quản trị đều có thể giải quyết đc bằng …”:",
+      "options": {
+        "A": "Mô tả",
+        "B": "Mô hình toán",
+        "C": "Mô phỏng",
+        "D": "Kỹ thuật khác nhau"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 55,
+      "duplicate": true
+    },
+    {
+      "question": "Các lý thuyết quản trị cổ điển có hạn chế là",
+      "options": {
+        "A": "Quan niệm xí nghiệp là 1 hệ thống khép kín",
+        "B": "Chưa chú trọng đúng mức đến yếu tố con người",
+        "C": "Cả a & bD. Cách nhìn phiến diện"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 56
+    },
+    {
+      "question": "Tác giải của “Trường phái quản trị quá trình” là:",
+      "options": {
+        "A": "Harold Koontz",
+        "B": "Henry Fayol",
+        "C": "R.Owen",
+        "D": "Max Weber"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 57
+    },
+    {
+      "question": "Trường phải Hội nhập trong quản trị đc xây dựng từ:",
+      "options": {
+        "A": "Sự tích hợp các lý thuyết quản trị trên cơ sở chọn lọc",
+        "B": "Trường phái quản trị hệ thống và trường phái ngẫu nhiên",
+        "C": "Một số trường phái khác nhau",
+        "D": "Quá trình hội nhập kinh tế toàn cầu"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 58
+    },
+    {
+      "question": "Người đưa ra 14 nguyên tắc “Quản trị tổng quát” là:",
+      "options": {
+        "A": "Frederick W. Taylor (1856 – 1915)",
+        "B": "Henry Faytol (1814 – 1925)",
+        "C": "Max Weber (1864 – 1920)D. Douglas M Gregor (1900 – 1964)"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 59
+    },
+    {
+      "question": "Mô hình 7’S theo quan điểm của Mckinsey thuộc trường phái quản trị nào:",
+      "options": {
+        "A": "Trường phái quản trị hành chính",
+        "B": "Trường phái quản trị hội nhập",
+        "C": "Trường phái quản trị hiện đạiD. Trường phái quản trị khoa học"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 60
+    },
+    {
+      "question": "Nhà nghiên cứu về quản trị đã đưa ra lý thuyết “ tổ chức quan liêu bàn giấy” là\":",
+      "options": {
+        "A": "M.Weber",
+        "B": "H.Fayol",
+        "C": "W.Taylor",
+        "D": "E.Mayo"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 61
+    },
+    {
+      "question": "Điền vào chỗ trống “Theo trường phái định lượng tất cả các vấn đề quản trị đều có thể …… đc bằng các mô hình toán”:",
+      "options": {
+        "A": "Mô tả",
+        "B": "Giải quyết",
+        "C": "Mô phỏng",
+        "D": "Trả lời"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 62,
+      "duplicate": true
+    },
+    {
+      "question": "Người đưa ra nguyên tắc “tổ chức công việc khoa học” là:",
+      "options": {
+        "A": "W.TaylorB. H.FayolC.",
+        "C": "BarnardD. Một người khác"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 63
+    },
+    {
+      "question": "Người đưa ra nguyên tắc “tập trung và phân tán” là:",
+      "options": {
+        "A": "C. Barnard",
+        "B": "H.Fayol",
+        "C": "W.Taylor",
+        "D": "Một người khác"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 64
+    },
+    {
+      "question": "“Năng suất lao động là chìa khóa để đạt hiệu quả quản trị” là quan điểm của trường phái:",
+      "options": {
+        "A": "Tâm lý – xã hội trong quản trị",
+        "B": "Quản trị khoa học",
+        "C": "Quản trị định lượng",
+        "D": "Cả a & b"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 65
+    },
+    {
+      "question": "Ra quyết định đúng là chìa khóa để đạt hiểu quả quản trị” là quan điểm của trường phái:",
+      "options": {
+        "A": "Định lượng",
+        "B": "Khoa học",
+        "C": "Tổng quát",
+        "D": "Tâm lý – xã hội"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 66
+    },
+    {
+      "question": "Các lý thuyết quản trị cổ điển:",
+      "options": {
+        "A": "Không còn đúng trong quản trị hiện đại",
+        "B": "Còn đúng trong quản trị hiện đại",
+        "C": "Còn có giá trị trong quản trị hiện đại",
+        "D": "Cần phân tích để vận dụng linh hoạt"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 67
+    },
+    {
+      "question": "Nguyên tắc thẩm quyền (quyền hạn) và trách nhiệm đc đề ra bởi:",
+      "options": {
+        "A": "Herbert Simont",
+        "B": "M.Weber",
+        "C": "Winslow Taylor",
+        "D": "Henry Fayol"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 68
+    },
+    {
+      "question": "Trường phái “quá trình quản trị” được đề ra bởi:",
+      "options": {
+        "A": "Harold Koontz",
+        "B": "Herry Fayol",
+        "C": "Winslow Taylor",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 69
+    },
+    {
+      "question": "Người đưa ra khái niệm về “quyền hành thực tế” là:",
+      "options": {
+        "A": "Faylo",
+        "B": "Weber",
+        "C": "Simon",
+        "D": "Một người khác"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 70
+    },
+    {
+      "question": "Đại diện tiêu biểu của “Trường phái quản trị quá trình” là:",
+      "options": {
+        "A": "Harold Koontz",
+        "B": "Henry Fayol",
+        "C": "Robert Owen",
+        "D": "Max Weber"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 71
+    },
+    {
+      "question": "Môi trường ảnh hưởng đến hoạt động của 1 doang nghiệp bao gồm:",
+      "options": {
+        "A": "Tổng quát",
+        "B": "Ngành",
+        "C": "Bên ngoài",
+        "D": "Nội bộ"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 72
+    },
+    {
+      "question": "Nhà quản trị cần phân tích môi trường để:",
+      "options": {
+        "A": "Có thông tin",
+        "B": "Lập kế hoach kinh doanh",
+        "C": "Phát triển thị trường",
+        "D": "Đề ra quyết định kinh doanh"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 73
+    },
+    {
+      "question": "Môi trường tác động đến doanh nghiệp và:",
+      "options": {
+        "A": "Tạo các cơ hội cho doanh nghiệp",
+        "B": "Có ảnh hưởng đến quyết định và chiến lược hoạt động của doanh nghiệp",
+        "C": "Tác động đến phạm vi hoạt động của doanh nghiệp",
+        "D": "Tạo các đe dọa đối với doanh nghiệp"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 74
+    },
+    {
+      "question": "Khoa học và công nghệ phát triển nhanh đem lại cho doanh nghiệp:",
+      "options": {
+        "A": "Nhiều cơ hội",
+        "B": "Nhiều cơ hội hơn là thách thức",
+        "C": "Nhiều thách thức",
+        "D": "Tất cả điều chưa chính xác"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 75
+    },
+    {
+      "question": "Người đưa ra nguyên tắc thống nhất chỉ huy là",
+      "options": {
+        "A": "M.WeberB. H.FayolC.",
+        "C": "BarnardD. Một người khác"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 76
+    },
+    {
+      "question": "Nghiên cứu yếu tố dân số là cần thiết để doanh nghiệp:",
+      "options": {
+        "A": "Xác định cơ hội thị trường",
+        "B": "Xác định nhu cầu thị trường",
+        "C": "Ra quyết định kinh doanhD. Các định chiến lược sp"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 77
+    },
+    {
+      "question": "Nhân viên giỏi rời bỏ doanh nghiệp đến nơi khác, đó là yêu tố nào tác động đến doanh nghiệp?",
+      "options": {
+        "A": "Yếu tố dân số",
+        "B": "Yếu tố xã hội",
+        "C": "Yếu tố nhân lực",
+        "D": "Yếu tố văn hóa"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 78
+    },
+    {
+      "question": "Việc điều chỉnh trần lại suất huy động tiết kiệm là yếu tố tác động từ yếu tố:",
+      "options": {
+        "A": "Kinh tế",
+        "B": "Chính trị và luật phá",
+        "C": "Của môi trường ngành",
+        "D": "Nhà cung cấp"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 79
+    },
+    {
+      "question": "Phân tích môi trường hoạt động của tổ chức nhằm",
+      "options": {
+        "A": "Xác định cơ hội & nguy cơ",
+        "B": "Xác định điểm mạnh & điểm yếu",
+        "C": "Phục vụ cho việc ra quyết địnhD. Để có thông tin"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 80
+    },
+    {
+      "question": "Kỹ thuật phân tích Swot được dùng để:",
+      "options": {
+        "A": "Xác định điểm mạnh-yếu của doanh nghiệp",
+        "B": "Xác định cơ hội-đe dọa đến doanh nghiệp",
+        "C": "Xác định các phương án kết hợp từ kết quả phân tích môi trường để xây dựng chiến  lượcD. Tổng hợp các thông tin từ phân tích môi trường"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 81
+    },
+    {
+      "question": "Phân tích đối thủ cạnh tranh là phân tích yếu tố của môi trường:",
+      "options": {
+        "A": "Tổng quát",
+        "B": "Ngành",
+        "C": "Bên ngoài",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 82
+    },
+    {
+      "question": "Giá dầu thô trên thị trường thế giới tăng là ảnh hưởng của môi trường:",
+      "options": {
+        "A": "Toàn cầu",
+        "B": "Ngành",
+        "C": "Tổng quát",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 83
+    },
+    {
+      "question": "Xu hướng của tỉ giá là yếu tố:",
+      "options": {
+        "A": "Chính phủ và chính trị",
+        "B": "Kinh tế",
+        "C": "Của môi trường tổng quát",
+        "D": "Của môi trường ngành"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 84
+    },
+    {
+      "question": "Các biến động trên thị trường chứng khoán là yếu tố ảnh hưởng đến doanh nghiệp từ:",
+      "options": {
+        "A": "Môi trường ngành",
+        "B": "Môi trường đặc thù",
+        "C": "Yếu tố kinh tế",
+        "D": "Môi trường tổng quát"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 85
+    },
+    {
+      "question": "Với doanh nghiệp,việc nghiên cứu môi trường là công việc phải làm của:",
+      "options": {
+        "A": "Giám đốc doanh nghiệp",
+        "B": "Các nhà chuyên môn",
+        "C": "Khách hàng",
+        "D": "Tất cả các nhà quản trị"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 86
+    },
+    {
+      "question": "Điền vào chỗ trống”khi nghiên cứu môi trường cần nhận diện các yếu tố tác động và …. của các yếu tố đó”:",
+      "options": {
+        "A": "Sự nguy hiểm",
+        "B": "Khả năng xuất hiện",
+        "C": "Mức độ ảnh hưởng"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 87
+    },
+    {
+      "question": "Tác động của sở thích theo nhóm tuổi đối với sp của doanh nghiệp là yếu tố thuộc về:",
+      "options": {
+        "A": "Kinh tế",
+        "B": "Dân số",
+        "C": "Chính trị xã hội",
+        "D": "Văn hóa"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 88
+    },
+    {
+      "question": "Các tác giả nổi tiếng của trường phái tâm lý – xã hội là:",
+      "options": {
+        "A": "Mayo, Maslow, Gregor, Vroom",
+        "B": "Simon, Mayo, Maslow, Taylor",
+        "C": "Maslow, Gregor, Vroom, GrannitD. Taylor, Maslow, Gregor, Fayol."
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 89
+    },
+    {
+      "question": "\"Mức tăng trưởng của nền kinh tế giảm sút” ảnh hưởng đến doanh nghiệp là yếu tố:",
+      "options": {
+        "A": "Chính trị",
+        "B": "Kinh tế",
+        "C": "Xã hội",
+        "D": "Của môi trường tổng quát"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 90
+    },
+    {
+      "question": "Người dân ngày càng quan tâm hơn đến chất lượng cuộc sống là sự tác động từ yếu tố:",
+      "options": {
+        "A": "Kinh tế",
+        "B": "Chính trị - pháp luật",
+        "C": "Xã hội",
+        "D": "Dân số"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 91
+    },
+    {
+      "question": "Lãi suất huy động tiết kiệm của ngân hàng là tác động đến doanh nghiệp từ yếu tố:",
+      "options": {
+        "A": "Chính trị và pháp luật",
+        "B": "Kinh tế",
+        "C": "Nhà cung cấp",
+        "D": "Tài chính"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 92
+    },
+    {
+      "question": "Chính sách hỗ trợ lãi suất tín dụng cho doanh nghiệp vừa và nhỏ là tác động từ yếu tố:",
+      "options": {
+        "A": "Chính trị và pháp luật",
+        "B": "Kinh tế",
+        "C": "Nhà cung cấp",
+        "D": "Tài chính"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 93
+    },
+    {
+      "question": "Môi trường tác động đến doanh nghiệp và ảnh hưởng mạnh nhất đến:",
+      "options": {
+        "A": "Cơ hội thị trường cho doanh nghiệp",
+        "B": "Quyết định về chiến lược hoạt động của doanh nghiệp",
+        "C": "Đến phạm vi hoạt động của doanh nghiệpD. Đe dọa về doanh số của doanh nghiệp"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 94
+    },
+    {
+      "question": "Ra quyết định trong quản lý là:",
+      "options": {
+        "A": "Công việc của các nhà quản trị cấp cao",
+        "B": "Lựa chọn 1 giải pháp cho vấn đề đã xác định",
+        "C": "Một công việc mang tính nghệ thuậtD. Tất cả điều sai"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 95
+    },
+    {
+      "question": "Ra quyết định là 1 hoạt động?",
+      "options": {
+        "A": "Nhờ vào trực giác",
+        "B": "Mang tính khoa học và nghệ thuật",
+        "C": "Nhờ vào kinh nghiệmD. Tất cả điều chưa chính xác"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 96
+    },
+    {
+      "question": "Câu nào là sai về ra quyết định?",
+      "options": {
+        "A": "Ra quyết định phụ thuộc hoàn toàn vào ý muốn chủ quan của nhà quản trị",
+        "B": "Ra quyết định mang tính khoa học và nghệ thuật",
+        "C": "Việc ra quyết định rất cần dựa vào kinh nghiệm",
+        "D": "Cần nắm vững lý thuyết ra quyết định"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 97
+    },
+    {
+      "question": "Ra quyết định quản trị nhằm:",
+      "options": {
+        "A": "Chọn phuơng án tốt nhất và ra quyết định",
+        "B": "Thảo luận với những ngừơi khác và ra quyết định",
+        "C": "Giải quyết 1 vấn đềD. Tìm phuơng án để giải quyết vấn đề"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 98
+    },
+    {
+      "question": "Qui trình ra quyết định gồm:",
+      "options": {
+        "A": "Xác định vấn đề và ra quyết định",
+        "B": "Chọn phuơng án tốt nhất và ra quyết định",
+        "C": "Thảo luận với những người khác và ra quyết địnhD. Nhiều buớc khác nhau"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 99
+    },
+    {
+      "question": "Bước khó khăn nhất của 1 quá trình ra quyết định là:",
+      "options": {
+        "A": "Xây dựng các tiêu chuẩn đánh giá",
+        "B": "Tiềm kiếm các phuơng án",
+        "C": "Nhận diện vấn đề cần giải quyếtD. Tìm kiếm thông tin"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 100
+    },
+    {
+      "question": "Tính nghệ thuật của quản trị thể hiện rõ nét nhất trong quá trình ra quyết định ở buớc:",
+      "options": {
+        "A": "Xây dựng các tiêu chuẩn",
+        "B": "Tìm kiếm thông tin",
+        "C": "So sánh các phuơng án",
+        "D": "Tẩt cả đều chưa chính xác"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 101
+    },
+    {
+      "question": "Tính KH của quản trị thể hiện rõ nét nhất trong quá trình ra quyết định ở bước:",
+      "options": {
+        "A": "Tìm kiếm thông tin",
+        "B": "Xác định phưong án tối ưu",
+        "C": "Nhận diện vấn đề cần giải quyếtD. Tất cả đều chưa chính xác"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 102
+    },
+    {
+      "question": "Bước thứ 4 của quá trình ra quyết định là:",
+      "options": {
+        "A": "Xây dựng các tiêu chuẩn đánh giá",
+        "B": "Tìm kiếm các phưong án",
+        "C": "Đánh giá các phương ánD. Nhận diện vấn đề"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 103
+    },
+    {
+      "question": "Bước thứ 5 của quá trình ra quyết định là:",
+      "options": {
+        "A": "Xây dựng các tiêu chuẩn đánh giá",
+        "B": "Tìm kiếm các phuơng án",
+        "C": "Đánh giá các phương án",
+        "D": "Chọn phuơng án tối ưu"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 104
+    },
+    {
+      "question": "Hiệu quả của quyết định phụ thuộc vào:",
+      "options": {
+        "A": "Nắm vững các buớc của quá trình ra quyết định",
+        "B": "Vận dụng nhuần nhuyễn các bước của quá trình ra quyết định",
+        "C": "Bảo đảm đầy đủ các điều kiện thực hiện quyết định",
+        "D": "Tất cả điều đúng"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 105
+    },
+    {
+      "question": "Quá trình ra quyết định gồm:",
+      "options": {
+        "A": "4 bước",
+        "B": "5 bước",
+        "C": "6 bước",
+        "D": "7 bước"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 106
+    },
+    {
+      "question": "Ra quyết định là 1 công việc:",
+      "options": {
+        "A": "Của nhà quản trị",
+        "B": "Mang tính nghệ thuật",
+        "C": "Vừa mang tính KH và vừa mang tính nghệ thuật",
+        "D": "Tẩt cả điều sai"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 107
+    },
+    {
+      "question": "Lựa chọn mô hình ra quyết định phụ thuộc vào?",
+      "options": {
+        "A": "Tính cách nhà quản trị",
+        "B": "Ý muốn của đa số nhân viên",
+        "C": "Năng lực nhà quản trị",
+        "D": "Nhiều yếu tố khác nhau"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 108
+    },
+    {
+      "question": "Ra quyết định theo phong cách độc đoán sẽ:",
+      "options": {
+        "A": "Không có lợi trong mọi truờng hợp",
+        "B": "Không được cấp dưới ủng hộ khi thực thi quyết định",
+        "C": "Gặp sai lầm trong giải quyết vấn đề",
+        "D": "Không phát huy được tính sang tạo của nhân viên trong quá trình ra quyết định"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 109
+    },
+    {
+      "question": "Nhà quản trị nên làm gì?",
+      "options": {
+        "A": "Chọn mô hình ra quyết định đã thành công truớc đó",
+        "B": "Xem xét nhiều yếu tố để lựa chọn mô hình ra quyết định phù hợp",
+        "C": "Sử dụng mô hình tham vấn để ra quyết định",
+        "D": "Sử dụng mô hình”ra quyết định tập thể” vì đây là mô hình tốt nhất"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 110
+    },
+    {
+      "question": "Trong trường hợp cấp bách, nhà quản trị nên:",
+      "options": {
+        "A": "Chọn mô hình “độc đoán”",
+        "B": "Sử dụng mô hình “ra quyết định tập thể”",
+        "C": "Chọn cách thừơng dùng để ra quyết định",
+        "D": "Sử dụng hình thức “tham vấn"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 111
+    },
+    {
+      "question": "Ra quyết định nhóm là gì?",
+      "options": {
+        "A": "Luôn luôn mang lại hiệu quả cao",
+        "B": "Ít khi mang lại hiệu quả cao",
+        "C": "Mang lại hiệu quả cao nhất trong những điều kiện phù hợp nhất định",
+        "D": "Tốn kém thời gian"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 112
+    },
+    {
+      "question": "Quyết định quản trị đề ra phải thỏa mãn:",
+      "options": {
+        "A": "4 yêu cầu",
+        "B": "5 yêu cầu",
+        "C": "6 yêu cầu",
+        "D": "7 yêu cầu"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 113
+    },
+    {
+      "question": "Các chức năng của quyết định quản trị bao gồm:",
+      "options": {
+        "A": "Hoạch định, tổ chức, điều khiển, kiểm tra",
+        "B": "Định hướng, bảo đảm, phối hợp, bắt buộc",
+        "C": "Định huớng, khoa học, thống nhất, linh hoạt",
+        "D": "Khoa học, định hướng, bảo đảm, đúng lúc"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 114
+    },
+    {
+      "question": "Để giải quyết đc vấn đề, nhà quản trị cần:",
+      "options": {
+        "A": "Chú trọng đến khâu ra quyết định",
+        "B": "Chú trọng đến khau thực hiện quyết định",
+        "C": "Chú trọng đến khâu ra quyết định nhiều hơn",
+        "D": "Chú trọng đến cả a & b"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 115
+    },
+    {
+      "question": "Hình thức ra quyết định có tham vấn là:",
+      "options": {
+        "A": "Trao đổi với người khác trước khi ra quyết định",
+        "B": "Thu thập thông tin từ cấp dưới trước khi ra quyết định",
+        "C": "Dựa vào ý kiến số đông đề ra quyết định",
+        "D": "Dựa trên sự hiểu biết cá nhân đề ra quyết định"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 116
+    },
+    {
+      "question": "Kỹ thuật nào nên áp dụng khi thảo luận đề nhận dạng vấn đề:",
+      "options": {
+        "A": "Phương pháp động não (brain stoming)",
+        "B": "Phuơng pháp phân tích SWOT",
+        "C": "Phương pháp bảng mô tả vấn đề",
+        "D": "Tất cả điều sai"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 117
+    },
+    {
+      "question": "Bước 3 của qúa trình ra quyết định quản trị là:",
+      "options": {
+        "A": "Tìm kiếm các phương án",
+        "B": "Xây dựng tiêu chuẩn đánh giá phưong án",
+        "C": "Thu thập thông tin",
+        "D": "Đánh giá các phương án"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 118
+    },
+    {
+      "question": "Buớc thứ 6 của quá trình ra quyết định là",
+      "options": {
+        "A": "Ra quyết định và thực hiện",
+        "B": "Xây dựng tiêu chuẩn đánh giá phương án",
+        "C": "Lựa chọn phương án tối ưu",
+        "D": "Đánh giá các phương án"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 119
+    },
+    {
+      "question": "Hoạch định là",
+      "options": {
+        "A": "Xác định mục tiêu và các biện pháp thực hiện mục tiêu",
+        "B": "Xây dựng các kế hoạch dài hạn",
+        "C": "Xây dựng các kế hoạch hàng năm",
+        "D": "Xây dựng kế hoạch cho hoạt động của toàn công ty"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 120
+    },
+    {
+      "question": "Xây dựng mục tiêu theo kiểu truyền thống là những mục tiêu được xác định",
+      "options": {
+        "A": "Áp đặt từ cấp cao",
+        "B": "Từ khách hàng",
+        "C": "Theo nhu cầu thị trường",
+        "D": "Từ cấp dưới"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 121
+    },
+    {
+      "question": "Xây dựng mục tiêu theo kiểu MBO là những mục tiêu được đặt ra theo cách",
+      "options": {
+        "A": "Từ cấp cao",
+        "B": "Từ cấp dưới",
+        "D": "Mục tiêu trở thành cam kết"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 122
+    },
+    {
+      "question": "MBO hiện nay được quan niệm là:",
+      "options": {
+        "A": "Phương pháp đánh giá kết quả hoàn thành nhiệm vụ",
+        "B": "Phương pháp đánh giá mục tiêu quản trị",
+        "C": "Công cụ xây dựng kết hoạch chiến lược",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 123
+    },
+    {
+      "question": "“Đặc tính của MBO là mỗi thành viên trong tổ chức \tràng buộc và hành động trong suốt quá trình quản trị”",
+      "options": {
+        "A": "Cam kết; tự nguyện",
+        "B": "Chấp nhận; tích cực",
+        "C": "Tự nguyện; tích cực",
+        "D": "Tự nguyện; cam kết"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 124
+    },
+    {
+      "question": "Mục tiêu trong hoạt động quản trị nên được xây dựng:",
+      "options": {
+        "A": "Có tính tiên tiến",
+        "B": "Có tính kế thừa",
+        "C": "Định tính và định lượng",
+        "D": "Không có câu nào chính xác"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 125
+    },
+    {
+      "question": "Kế hoạch đã được duyệt của 1 tổ chức có vai trò",
+      "options": {
+        "A": "Định hướng cho tất cả các hoạt động của tổ chức",
+        "B": "Làm cơ sở cho sự phối hợp giữa các đơn vị, các bộ phận trong công ty",
+        "C": "Làm căn cứ cho việc kiểm soát các hoạt động của tổ chức",
+        "D": "Các vai trò trên"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 126
+    },
+    {
+      "question": "Mục tiêu của công ty bị ảnh hưởng bởi",
+      "options": {
+        "A": "Nguồn lực của công ty",
+        "B": "Quan điểm của lãnh đạo",
+        "C": "Các đối thủ cạnh tranh",
+        "D": "Không có câu nào chính xác"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 127
+    },
+    {
+      "question": "“Hoạch định nhằm xác định mục tiêu cần đạt được và đề ra……hành động để đạt mục tiêu trong từng khoảng nhất định”:",
+      "options": {
+        "A": "Quan điểm",
+        "B": "Giải pháp",
+        "C": "Giới hạn",
+        "D": "Ngân sách"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 128
+    },
+    {
+      "question": "Các kế hoạch tác nghiệp thuộc loại “kế hoạch thường trực” là:",
+      "options": {
+        "A": "Các dự án",
+        "B": "Các hoạt động được tiêu chuẩn hóa để giải quyết tình huống hay lặp lại",
+        "C": "Các chính sách, thủ tục, quy định",
+        "D": "Cả b và c"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 129
+    },
+    {
+      "question": "“Kế hoạch đơn dụng là những cách thức hành động……trong tương lai”:",
+      "options": {
+        "B": "Ít phát sinh",
+        "C": "Xuất hiện",
+        "D": "Ít xảy ra"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 130
+    },
+    {
+      "question": "Các kế hoạch tác nghiệp thuộc loại “kế hoạch đơn dụng” là:",
+      "options": {
+        "A": "Dự án chương trình",
+        "B": "Chương trình, dự án, dự toán ngân sách",
+        "C": "Các quy định, thủ tục",
+        "D": "Các chính sách, thủ tục"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 131
+    },
+    {
+      "question": "“Kế hoạch đa dụng là những cách thức hành động đã được tiêu chuẩn hóa để giải quyết những tình huống……và có thể lường trước”:",
+      "options": {
+        "A": "Ít xảy ra",
+        "B": "Thường xảy ra",
+        "C": "Phát sinh",
+        "D": "Xuất hiện"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 132
+    },
+    {
+      "question": "Quản trị bằng mục tiêu MBO giúp:",
+      "options": {
+        "A": "Động viên khuyến khích nhân viên cấp dưới tốt hơn",
+        "B": "Tăng tính chủ động sáng tạo của nhân viên cấp dưới",
+        "C": "Góp phần đào tạo và huấn luyện nhân viên cấp dưới",
+        "D": "Các lợi ích trên đều đúng"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 133
+    },
+    {
+      "question": "Chọn câu trả lời đúng nhất về Hoạch định:",
+      "options": {
+        "A": "Hoạch định là công việc bắt đầu và quan trọng nhất của quá trình quản trị",
+        "B": "Hoạch định chỉ mang tính hình thức",
+        "C": "Hoạch định khác xa với thực tế",
+        "D": "Hoạch định cần phải chính xác tuyệt đối"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 134
+    },
+    {
+      "question": "Các yếu tố căn bản của quản trị bằng mục tiêu MBO gồm",
+      "options": {
+        "A": "Sự cám kết của nhà quản trị cấp cao, sự hợp tác của các thành viên, tính tự quản, tổ chức kiểm soát định kì",
+        "B": "Các nguồn lực đảm bảo, sự cam kết của các nhà quản trị cấp cao, sự hợp tác của các thành viên, sự tự nguyện",
+        "C": "Nhiệm vụ ổn định, trình độ nhân viên, sự cam kết của nhà quản trị cấp cao, tổ chức kiểm soát định kì",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 135
+    },
+    {
+      "question": "Khi thực hiện quản trị bằng mục tiêu MBO nhà quản trị:",
+      "options": {
+        "A": "Cần kiểm tra tiến triển công việc theo định kì",
+        "B": "Không cần kiểm tra",
+        "C": "Chỉ kiểm tra khi cần thiết",
+        "D": "Cần kiểm tra định kì và kiểm tra đột xuất tiến triển công việc"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 136
+    },
+    {
+      "question": "Khi thực hiện quản trị bằng mục tiêu MBO",
+      "options": {
+        "A": "Quy trình thực hiện công việc là quan trọng nhất",
+        "C": "Bao gồm a và b",
+        "D": "Cả 3 đều sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 137
+    },
+    {
+      "question": "Phát biểu nào sau đây là đúng nhất?",
+      "options": {
+        "A": "Hoạch định lun khác xa với thực tế",
+        "B": "Đôi khi hoạch định chỉ mang tính hình thức",
+        "C": "Các dự báo là cơ sở quan trọng của hoạch định",
+        "D": "Mục tiêu-nền tảng của hoạch định"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 138
+    },
+    {
+      "question": "Mục tiêu nào sau đây được diễn đạt tốt nhất",
+      "options": {
+        "A": "Xây dựng thêm 6 siêu thị trong giai đoạn tới",
+        "B": "Đạt danh số gấp 2 lần vào cuối năm",
+        "C": "Nâng mức thu nhập bình quân của nhân viên bán hàng lên 5 triệu/1 tháng vào năm 2011",
+        "D": "Tuyển thêm lao động"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 139,
+      "duplicate": true
+    },
+    {
+      "question": "Bước đầu tiên của quá trình hoạch định là:",
+      "options": {
+        "A": "Xác định mục tiêu",
+        "B": "Phân tích kết quả hoạt động trong quá khứ",
+        "C": "Xác định những thuận lợi và khó khăn",
+        "D": "Phân tích ảnh hưởng của môi trường"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 140
+    },
+    {
+      "question": "Mục tiêu nào sau đây được diễn đạt tốt nhất",
+      "options": {
+        "A": "Đạt doanh số 5 tỷ trong năm 2010",
+        "B": "Tăng doanh số nhanh hơn kì trước",
+        "C": "Phát triển thị trường lên 2%",
+        "D": "Thu nhập bình quân của người lao động là 3triệu/tháng"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 141,
+      "duplicate": true
+    },
+    {
+      "question": "Sự khác biệt căn bản nhất giữa hoạch định chiến lược và hoạch định tác nghiệp là:",
+      "options": {
+        "A": "Độ dài thời gian",
+        "B": "Nội dung và thời gian thực hiện",
+        "C": "Cấp quản trị tham gia vào hoạch định",
+        "D": "Không câu nào đúng"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 142
+    },
+    {
+      "question": "Xây dựng cơ cấu tổ chức là:",
+      "options": {
+        "A": "Xác định các bộ phận (đơn vị)",
+        "B": "Xác lập các mối quan hệ ngang giữa các đơn vị hoặc bộ phận",
+        "C": "Xác lập các mối quan hệ trong của tổ chức",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 143
+    },
+    {
+      "question": "Các doanh nghiệp nên lựa chọn:",
+      "options": {
+        "A": "Cơ cấu tổ chức theo chức năng",
+        "B": "Cơ cấu tổ chức theo trực tuyến",
+        "C": "Cớ cấu tổ chức theo trực tuyến-chức năng",
+        "D": "Cơ cấu tổ chức phù hợp"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 144
+    },
+    {
+      "question": "Theo Michael E.Porter, các chiến lược cạnh tranh tổng thể của doanh nghiệp là:",
+      "options": {
+        "A": "Dẫn giá, khác biệt hóa, tấn công",
+        "B": "Dẫn giá, khác biệt hóa, tập trung",
+        "C": "Tập trung, dẫn giá, tấn công sườn",
+        "D": "Giá thấp, giá cao, giá trung bình"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 145
+    },
+    {
+      "question": "Xác lập cơ cấu tổ chức trước hết phải căn cứ vào:",
+      "options": {
+        "A": "Chiến lược của công ty",
+        "B": "Quy mô của công ty",
+        "C": "Đặc điểm ngành nghề",
+        "D": "Nhiều yếu tố khác nhau"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 146
+    },
+    {
+      "question": "Các giai đoạn phát triển của 1 tổ chức:",
+      "options": {
+        "A": "Khởi đầu, tăng trưởng, chín muồi, suy yếu",
+        "B": "Sinh, lão, bệnh, tử",
+        "C": "Phôi thai, phát triển, trưởng thành, suy thoái",
+        "D": "Thâm nhập, tham gia, chiếm lĩnh, rời khỏi"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 147
+    },
+    {
+      "question": "Doanh nghiệp qui mô lớn đòi hỏi chuyên môn hóa cao không nên sử dụng:",
+      "options": {
+        "A": "Cơ cấu trực tuyến-chức năng",
+        "B": "Cơ cấu chức năng",
+        "C": "Cơ cấu ma trận",
+        "D": "Cơ cấu trực tuyến"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 148
+    },
+    {
+      "question": "Doanh nghiệp hoạt động trong môi trường cạnh tranh cao, tình hình sản xuất-kinh doanh nhiều biến động, nguồn lực khan hiếm, khách hàng thay đổi, nên chọn:",
+      "options": {
+        "A": "Cơ cấu trực tuyến",
+        "B": "Cơ cấu ma trận",
+        "C": "Cơ cấu trực tuyến-chức năng",
+        "D": "Cơ cấu trực tuyến-tham mưu"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 149
+    },
+    {
+      "question": "Chức năng của nhà lãnh đạo là:",
+      "options": {
+        "A": "Vạch ra các mục tiêu và phương hướng phát triển tổ chức",
+        "B": "Bố trí lực lượng thực hiện các mục tiêu của tổ chức",
+        "C": "Động viên khuyến khích nhân viên",
+        "D": "Các lí do trên"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 150
+    },
+    {
+      "question": "Các nhu cầu bậc cao của con người trong tháp nhu cầu Maslow là:",
+      "options": {
+        "A": "Nhu cầu tự trọng, nhu cầu an toàn và xã hội",
+        "B": "Nhu cầu xã hội, nhu cầu tự trọng và tự thể hiện",
+        "C": "Nhu cầu sinh học, nhu cầu xã hội và nhu cầu an toàn",
+        "D": "Nhu cầu địa vị, nhu cầu phát triển và nhu cầu thành tựu"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 151
+    },
+    {
+      "question": "Doanh nghiệp qui mô nhỏ, hoạt động đơn giản và ổn định nên sử dụng:",
+      "options": {
+        "A": "Cơ cấu trực tuyến",
+        "B": "Cơ cấu trực tuyến - chức năng",
+        "C": "Cơ cấu ma trận",
+        "D": "Cơ cấu trực tuyến - tham mưu"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 152
+    },
+    {
+      "question": "Các nhu cầu bậc thấp của con người trong tháp nhu cầu Maslow là:",
+      "options": {
+        "A": "Nhu cầu sinh học và an toàn",
+        "B": "Nhu cầu sinh học và xã hội",
+        "C": "Nhu cầu an toàn và xã hội",
+        "D": "Nhu cầu ăn mặc ở"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 153
+    },
+    {
+      "question": "Các môi quan hệ trong cơ cấu trực tuyến - chức năng gồm:",
+      "options": {
+        "A": "Trực tuyến",
+        "B": "Chức năng",
+        "C": "Tham mưu",
+        "D": "Cả 3 yếu tố trên"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 154
+    },
+    {
+      "question": "Nguyên nhân thường gặp nhất khiến các nhà quản trị không muốn phân quyền là do:",
+      "options": {
+        "A": "Năng lực của cấp dưới kém",
+        "B": "Thiếu lòng tin vào cấp dưới",
+        "C": "Sợ cấp dưới là sai",
+        "D": "Sợ mất time"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 155
+    },
+    {
+      "question": "Lí do chính yếu khiến nhà quản trị nên phân quyền là:",
+      "options": {
+        "A": "Giảm bớt được gánh nặng của công việc",
+        "B": "Đào tạo kế cận",
+        "C": "Có time để tập trung vào công việc chính yếu",
+        "D": "Tạo sự nỗ lực ở nhân viên"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 156
+    },
+    {
+      "question": "Theo thuyết X của Douglas McGregor giả định con người:",
+      "options": {
+        "A": "Thích thú làm việc",
+        "B": "Ham muốn làm việc",
+        "C": "Không thích làm việc",
+        "D": "Vui vẻ làm việc"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 157
+    },
+    {
+      "question": "Mức độ phân quyền càng lớn khi:",
+      "options": {
+        "A": "Phần lớn các quyết định được đề ra ở cấp cao",
+        "B": "Phần lớn các quyết định được đề ra ở cấp cơ sở",
+        "C": "Các cấp quản trị thấp hơn được đề ra nhiều loại quyết định",
+        "D": "Tất cả đúng"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 158
+    },
+    {
+      "question": "Số lượng nhân viên (cấp dưới) mà một nhà quản trị có thể trực tiếp điều khiển công việc một cách hiệu quả là:",
+      "options": {
+        "A": "Định mức quản trị",
+        "B": "Tầm hạn quản trị",
+        "C": "Khâu quản trị",
+        "D": "Gồm a và b"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 159
+    },
+    {
+      "question": "Theo thuyết Y của Douglas McGregor giả định con người:",
+      "options": {
+        "A": "Ham muốn nghỉ ngơi",
+        "B": "Ham thích làm việc",
+        "C": "Không thích làm việc",
+        "D": "Vui vẻ làm việc"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 160
+    },
+    {
+      "question": "Ưu điểm của mô hình cơ cấu tổ chức theo chức năng là:",
+      "options": {
+        "A": "Cấp dưới có trình độ",
+        "B": "Chú trọng tới kết quả",
+        "C": "Gắn liền quyền hạn với trách nhiệm",
+        "D": "Chọn đúng việc đúng người để ủy quyền"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 161
+    },
+    {
+      "question": "trị có khả năng điều hành hữu hiệu nhất:",
+      "options": {
+        "A": "Cấu trúc",
+        "B": "Qui mô",
+        "C": "Số lượng",
+        "D": "Giới hạn"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 162
+    },
+    {
+      "question": "Lợi ích của ủy quyền là:",
+      "options": {
+        "A": "Giảm áp lực công việc nhờ đó nhà quản trị tập trung thời gian vào những việc chính yếu",
+        "B": "Giảm được gánh nặng của trách nhiệm",
+        "C": "Tăng cường được thiện cảm của cấp dưới",
+        "D": "Tránh được những sai lần đáng có"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 163
+    },
+    {
+      "question": "Tầm hạn quản trị rộng hay hẹp phụ thuộc vào?",
+      "options": {
+        "A": "Trình độ của nhà quản trị",
+        "B": "Trình độ của nhân viên",
+        "C": "Công việc phải thực hiện",
+        "D": "Tất cả ý trên"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 164
+    },
+    {
+      "question": "Mối quan hệ giữa tầm hạn quản trị và số nấc trung gian trong bộ máy quản lí là:",
+      "options": {
+        "A": "Tỷ lệ nghịch",
+        "B": "Tỷ lệ thuận",
+        "C": "Không có mối quan hệ",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 165
+    },
+    {
+      "question": "Doanh nghiệp có quy mô rất nhỏ nên áp dụng mô hình cơ cấu tổ chức nào?",
+      "options": {
+        "A": "Trực tuyến - chức năng",
+        "B": "Trực tuyến",
+        "C": "Chức năng",
+        "D": "Ma trận"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 166
+    },
+    {
+      "question": "Quyền hành hợp pháp của nhà quản trị?",
+      "options": {
+        "A": "Có được từ chức vụ",
+        "B": "Có được từ uy tín cá nhân",
+        "C": "Tùy thuộc cấp bậc của nhà quản trị",
+        "D": "Từ sự quy định của tổ chức"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 167
+    },
+    {
+      "question": "Phân quyền trong quản trị là chuyển giao quyền lực từ cấp trên xuống cấp dưới trong những?",
+      "options": {
+        "A": "Giới hạn nhất định",
+        "B": "Thời gian nhất định",
+        "C": "Qui chế nhất định",
+        "D": "Cấu trúc nhất định"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 168
+    },
+    {
+      "question": "Nguyên tắc quan trọng nhất trong việc xây dựng bộ máy quản lí của một tổ chức là:",
+      "options": {
+        "A": "Gắn với mục tiêu và chiến lược hoạt động",
+        "B": "Phải dựa vào các nguồn lực của tổ chức",
+        "C": "Phải xuất phát từ quy mô và đặc điểm của lĩnh vực hoạt động",
+        "D": "Phải nghiên cứu môi trường"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 169
+    },
+    {
+      "question": "Nhược điểm của mô hình tổ chức theo chức năng là:",
+      "options": {
+        "A": "Vi phạm nguyên tắc thống nhất chỉ huy",
+        "B": "Chế độ trách nhiệm không rõ ràng",
+        "C": "Khó đào tạo và tìm kiếm nhà quản trị đáp ứng nhu cầu của mô hình này",
+        "D": "Cả a va b"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 170
+    },
+    {
+      "question": "Ưu điểm của mô hình cơ cấu tổ chức trực tuyến-chức năng là:",
+      "options": {
+        "A": "Dảm bảo chế độ 1 thủ trưởng",
+        "B": "Chế độ trách nhiệm rõ ràng",
+        "C": "Sử dụng được chuyên gia giỏi",
+        "D": "Tất cả đều đúng"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 171
+    },
+    {
+      "question": "Ưu điểm của mô hình tổ chức theo ma trận:",
+      "options": {
+        "A": "Tổ chức linh động",
+        "B": "Tôn trọng nguyên tắc thống nhất chỉ huy",
+        "C": "Cơ cấu tổ chức đơn giản",
+        "D": "Cả a và b đúng"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 172
+    },
+    {
+      "question": "Theo tác giả K.Lewin thì phong cách lãnh đạo gồm có các kiểu:",
+      "options": {
+        "A": "Độc đoán, dân chủ, tự do",
+        "B": "S1,S2,S3,S4",
+        "C": "(1.1), (1.9), (9.1), (9.9), (9.5)",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 173
+    },
+    {
+      "question": "Theo đại học OHIO, phong cách lãnh đạo gồm có các kiểu:",
+      "options": {
+        "A": "Độc đoán, dân chủ, tự do",
+        "B": "S1,S2,S3,S4",
+        "C": "(1.1), (1.9), (9.1), (9.9), (9.5)",
+        "D": "Tất cả đều sai"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 174
+    },
+    {
+      "question": "“Lãnh đạo làm tìm cách……đến người khác để đạt được mục tiên của tổ chức”:",
+      "options": {
+        "A": "Ra lệnh",
+        "B": "Gây ảnh hưởng",
+        "C": "Bắt buộc",
+        "D": "Tác động"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 175
+    },
+    {
+      "question": "“Theo quan điểm quản trị hiện đại, người lãnh đạo hiện đại là người …… đến người khác để đạt được mục tiên của tổ chức”:",
+      "options": {
+        "A": "Ra lệnh",
+        "B": "Truyền cảm hứng",
+        "C": "Bắt buộc",
+        "D": "Tác động"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 176
+    },
+    {
+      "question": "Động viên là tạo ra sự……hơn ở nhân viên trong quá trình thực hiện nhiệm vụ của tổ chức trên cơ sở thỏa mãn nhu cầu cá nhân”:",
+      "options": {
+        "A": "Nỗ lực",
+        "B": "Thích thú",
+        "C": "Vui vẻ",
+        "D": "Quan tâm"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 177
+    },
+    {
+      "question": "Trong các phong cách lãnh đạo sau đây phong cách nào mang lại hiệu quả:",
+      "options": {
+        "A": "Độc đoán",
+        "B": "Dân chủ",
+        "C": "Tự do",
+        "D": "Cả 3 đều sai"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 178
+    },
+    {
+      "question": "Theo tác giả K.Lewin phong cách lãnh đạo nào là tốt nhất",
+      "options": {
+        "A": "Độc đoán",
+        "B": "Dân chủ",
+        "C": "Tự do",
+        "D": "Cả 3 đều sai"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 179
+    },
+    {
+      "question": "Con người theo thuyết XY của Douglas McGregor:",
+      "options": {
+        "A": "Có bản chất lười biếng, không thích làm việc",
+        "B": "Có bản chất siêng năng, thích làm việc",
+        "C": "Siêng năng hay lười biếng không phải là bản chất mà là thái độ",
+        "D": "Cả a và b đúng"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 180
+    },
+    {
+      "question": "Động lực làm việc của con người xuất phát từ:",
+      "options": {
+        "A": "5 cấp bậc nhu cầu",
+        "B": "Nhu cầu bậc cao",
+        "C": "Nhu cầu chưa được thỏa mãn",
+        "D": "Những gì mà nhà quản trị đã làm cho người lao động"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 181
+    },
+    {
+      "question": "Nhà quản trị nên lựa chọn:",
+      "options": {
+        "A": "Phong cách lãnh đạo độc tài",
+        "B": "Phong cách lãnh đạo dân chủ",
+        "C": "Phong cách lãnh đạo tự do"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 182
+    },
+    {
+      "question": "được thực hiện sau khi tổ chức thực hiện quyết định Phương pháp phỏng vấn là gì?",
+      "options": {
+        "B": "là công việc nhà quản lý thường làm khi kiểm tra nhân viên vi phạm kỷ luật",
+        "C": "thường tốn kém và chi phí và không hiệu quả",
+        "D": "là không cần thiết trong quá trình quyết định quản lý bởi vì những người được phỏng vấn thường không nắm được thực tiễn quản lý"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 183
+    },
+    {
+      "question": "Phạm vi tác động của quyết định quản lý:",
+      "options": {
+        "A": "chỉ bao gồm chủ thể quản lý",
+        "B": "là 1 cá nhân cụ thể",
+        "C": "là các cơ quan nhà nước",
+        "D": "có thể là các cá nhân, các tổ chức và toàn xã hội"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 184
+    },
+    {
+      "question": "So sánh các phương án của quyết định:",
+      "options": {
+        "A": "là một bước trong quy trình quyết định, được thực hiện ngay sau khi xác định được vấn đề quyết định",
+        "B": "là bước đầu tiên của quy trình quyết định quản lý",
+        "C": "là một nội dung của bước đánh giá và lựa chọn phương án tốt nhất",
+        "D": "là không thực sự quan trọng vì chủ thể ra quyết định dễ dàng biết được phương án tốt nhất"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 185
+    },
+    {
+      "question": "Khái niệm Phương pháp chuyên gia?",
+      "options": {
+        "A": "là một trong các phương pháp lãnh đạo con người",
+        "B": "là một trong các phương pháp quản lý nhà nước",
+        "C": "là phương pháp dựa trên các ý kiến chuyên gia để thực hiện các bước của quá trình quyết định",
+        "D": "là không cần thiết trong quá trình quyết định bởi vì bản thân chủ thể ra quyết định là các chuyên gia"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 186
+    },
+    {
+      "question": "Xây dựng các phương án quyết định:",
+      "options": {
+        "A": "là bước đầu tiên của quy trình quyết định quản lý",
+        "B": "là không thực sự quan trọng vì chủ thể ra quyết định dễ dàng xác định được phương án tối ưu",
+        "C": "được thực hiện sau khi lựa chọn phương án tối ưu",
+        "D": "là một bước trong quy trình quyết định, được thực hiện sau khi phân tích vấn đề"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 187
+    },
+    {
+      "question": "Một quyết định quản lý cần đáp ứng được các yêu cầu về:",
+      "options": {
+        "A": "kỹ năng quản lý",
+        "B": "tính hợp pháp, tính hệ thống, tính khoa học và tính tối ưu",
+        "C": "phong cách quản lý",
+        "D": "khả năng làm việc độc lập"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 188
+    },
+    {
+      "question": "Phân chia theo số người ra quyết định, quyết định quản lý bao gồm:",
+      "options": {
+        "A": "các quyết định quản lý nhà nước và quyết định của các tổ chức",
+        "B": "quyết định chiến lược, quyết định chiến thuật và quyêt định tác nghiệp",
+        "C": "quyết định chuẩn tắc và quyết định không chuẩn tắc",
+        "D": "quyết định tập thể và quyết định cá nhân"
+      },
+      "answer": "D",
+      "needsReview": false,
+      "id": 189
+    },
+    {
+      "question": "Xây dựng kế hoạch thực hiện quyết định:",
+      "options": {
+        "A": "là bước đầu tiên của quy trình quyết định quản lý",
+        "B": "là nội dung đầu tiên của bước tổ chức thực hiện quyết định",
+        "C": "là không thực sự quan trọng vì công việc khó khăn nhất của quy trình quyết định là ra được quyết định khoa học, hợp lý",
+        "D": "là một nội dung của bước phân tích vấn đề trong quy trình quyết định"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 190
+    },
+    {
+      "question": "Khi xác định các mục tiêu, người lập kế hoạch cũng cần xác định thứ tự ưu tiên các mục tiêu vì:",
+      "options": {
+        "A": "Nguồn lực của tổ chức là vô hạn",
+        "B": "Tác động của đối thủ cạnh tranh",
+        "C": "Nguồn lực của tổ chức là hữu hạn",
+        "D": "Để thực hiện mục tiêu dễ trước"
+      },
+      "answer": "C",
+      "needsReview": false,
+      "id": 191
+    },
+    {
+      "question": "Chiến lược là kết quả cuối cùng của:",
+      "options": {
+        "A": "lập kế hoạch chiến lược",
+        "B": "lập kế hoạch tác nghiệp",
+        "C": "xác định các mục tiêu kế hoạch",
+        "D": "xác định các phương án kế hoạch"
+      },
+      "answer": "A",
+      "needsReview": false,
+      "id": 192
+    },
+    {
+      "question": "Hướng dẫn các việc phải làm và trình tự của nó là nội dung của:",
+      "options": {
+        "A": "các chính sách",
+        "B": "các thủ tục",
+        "C": "các quy tắc",
+        "D": "các dự án"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 193
+    },
+    {
+      "question": "Thông tin về cơ hội và thách thức có được từ:",
+      "options": {
+        "A": "phân tích môi trường bên trong của tổ chức",
+        "B": "phân tích môi trường bên ngoài của tổ chức",
+        "C": "phân tích các chỉ tiêu tài chính của tổ chức",
+        "D": "đánh giá đội ngũ cán bộ quản lý cấp cao"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 194
+    },
+    {
+      "question": "Loại kế hoạch thể hiện tầm nhìn, sự bố trí chiến lược về thời gian, không gian lãnh thổ là:",
+      "options": {
+        "A": "Chính sách",
+        "B": "Quy hoạch",
+        "C": "Dự án",
+        "D": "Quy tắc"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 195
+    },
+    {
+      "question": "Các mục tiêu của kế hoạch chiến lược thường:",
+      "options": {
+        "A": "chi tiết và cụ thể",
+        "B": "cô đọng và tổng thể",
+        "C": "định lượng",
+        "D": "cho thời gian ngắn"
+      },
+      "answer": "B",
+      "needsReview": false,
+      "id": 196
+    },
+    {
+      "question": "Lập kế hoạch là nhiệm vụ của:",
+      "options": {
+        "A": "chỉ các nhà quản lý cấp cao",
+        "B": "chỉ các nhà quản lý cấp trung",
+        "C": "chỉ các nhà quản lý cấp cơ sở"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 197
+    },
+    {
+      "question": "Tổ chức thuộc quyền sở hữu của Nhà nước hoặc không có chủ sở hữu là một:",
+      "options": {
+        "A": "Công ty trách nhiệm hữu hạn",
+        "B": "Doanh nghiệp tư nhân",
+        "C": "Tổ chức công",
+        "D": "Tổ chức Theo phạm vi quản lý, có các loại nhà quản lý sau:"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 198
+    },
+    {
+      "question": "Khi quản đốc phân xưởng của một nhà máy so sánh chất lượng sản phẩm với tiêu chuẩn quản lý này đang thực hiện chức năng:",
+      "options": {
+        "A": "kiểm soát",
+        "B": "tổ chức",
+        "C": "lập kế hoạch",
+        "D": "lãnh đạo"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 199
+    },
+    {
+      "question": "4Ví dụ nào dưới đây không phải là một tổ chức?",
+      "options": {
+        "A": "Một trường đại học",
+        "B": "Một bệnh viện",
+        "C": "Một nhóm bạn",
+        "D": "Một doanh nghiệp"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 200
+    },
+    {
+      "question": "5Kế hoạch chiến lược được xây dựng cho thời gian:",
+      "options": {
+        "A": "dưới 1 năm",
+        "B": "từ 1-3 năm",
+        "C": "dưới 3 năm",
+        "D": "từ 3-5 năm trở lên"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 201
+    },
+    {
+      "question": "6Phương pháp phân tích toán học:",
+      "options": {
+        "A": "không được áp dụng trong quản lý vì đây là công việc của các nhà toán học",
+        "B": "thường ít được áp dụng trong quản lý vì nhà quản lý thường không biết phân tích toán học",
+        "C": "có thể hỗ trợ cho các nhà quản lý trong việc xác định vấn đề và lựa"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 202
+    },
+    {
+      "question": "Quy hoạch là sự cụ thể hoá của?",
+      "options": {
+        "A": "chính sách",
+        "B": "thủ tục",
+        "C": "quy tắc",
+        "D": "chiến lược"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 203
+    },
+    {
+      "question": "Nguồn lực của tổ chức:",
+      "options": {
+        "A": "Không liên quan đến việc ra quyết định quản lý",
+        "B": "Là một trong các căn cứ ra quyết định quản lý",
+        "C": "Là mục tiêu của quyết định quản lý",
+        "D": "Là quá trình tổ chức thực hiện quyết định"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 204
+    },
+    {
+      "question": "Tính khoa học của quyết định quản lý được thể hiện:",
+      "options": {
+        "A": "Quyết định được đưa ra bởi các nhà quản lý cấp cao",
+        "B": "Quyết định được đưa ra bởi tập thể",
+        "C": "Quyết định được đưa ra theo phương pháp chuyên gia",
+        "D": "Quyết định được đưa ra dựa trên các căn cứ khoa họ"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 205
+    },
+    {
+      "question": "Môi trường bên ngoài của tổ chức không bao gồm:",
+      "options": {
+        "A": "sự biến động của nền kinh tế",
+        "B": "thay đổi chính sách của Nhà nước",
+        "C": "xuất hiện đối thủ cạnh tranh mới",
+        "D": "yếu kém về nhân sự của tổ chức"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 206
+    },
+    {
+      "question": "Sau khi xác định hệ thống kiểm soát, bước tiếp theo của quy trình kiểm soát là: Chính xác",
+      "options": {
+        "A": "xác định mục tiêu và nội dung kiểm soát",
+        "B": "giám sát và đo lường việc thực hiện",
+        "C": "xác định tiêu chuẩn kiểm soát",
+        "D": "đánh giá sự thực hiện"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 207
+    },
+    {
+      "question": "Nhược điểm của hệ thống kiểm soát phản hồi dự báo là:",
+      "options": {
+        "A": "nhà quản lý không thể đảm bảo chắc chắn chất lượng sản phẩm cuối cùng",
+        "B": "không xác định chính xác nguyên nhân gây ra sai sót",
+        "C": "nhà quản lý không thể giao cho nhân viên tự kiểm soát",
+        "D": "chi phí thực hiện kiểm soát lớn"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 208
+    },
+    {
+      "question": "Tất cả các giảng viên phải đeo thẻ khi lên lớp” là minh hoạ của:",
+      "options": {
+        "C": "thủ tục",
+        "D": "quy tắc"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 209
+    },
+    {
+      "question": "Tổng kết, rút kinh nghiệm về quyết định: Sai D là đáp án đúng",
+      "options": {
+        "A": "là một bước trong quy trình quyết định, được thực hiện ngay sau khi xây dựng các phương án",
+        "B": "là bước đầu tiên của quy trình quyết định quản lý",
+        "C": "là không thực sự quan trọng vì quá trình quyết định đã kết thúc",
+        "D": "là nội dung cuối cùng của bước tổ chức thực hiện quyết định"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 210
+    },
+    {
+      "question": "Tổ chức thực hiện quyết định:",
+      "options": {
+        "A": "là bước đầu tiên của quy trình quyết định quản lý",
+        "B": "là không thực sự quan trọng vì ra quyết định chính xác mới là yếu tố quan trọng",
+        "C": "là bước quan trọng trong quy trình quyết định",
+        "D": "được thực hiện sau khi xây dựng các phương án của quyết định"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 211
+    },
+    {
+      "question": "Phải làm gì và làm thế nào? Là nội dung của:",
+      "options": {
+        "A": "Mục tiêu kế hoạch",
+        "B": "Giải pháp kế hoạch",
+        "C": "Công cụ kế hoạch",
+        "D": "Hình thức kế hoạch"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 212
+    },
+    {
+      "question": "Một trong những nội dung của nguyên tắc kiểm soát “Tính hiệu quả” có nghĩa là: Chính xác",
+      "options": {
+        "A": "bộ phận kiểm soát cần tiến hành đúngchức trách, nhiệm vụ, quyền hạn",
+        "B": "lợi ích của kiểm soát phải tương xứng với chi phí dành cho kiểm soát",
+        "C": "tập trung kiểm soát những điểm hay xẩy ra sai sót",
+        "D": "khuyến khích việc tham gia của nhân viên vào việc kiểm so"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 213
+    },
+    {
+      "question": "Ưu điểm của hệ thống kiểm soát phản hồi kết quả hoạt động là:",
+      "options": {
+        "A": "biết chính xác nguyên nhân gây ra sai sót",
+        "B": "nhà quản lý có thể giao cho nhân viên tự kiểm soát",
+        "C": "hệ thống kiểm soát đơn giản, dễ thực hiện",
+        "D": "ngăn ngừa hoặc phát hiện ngay các sai sót"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 214
+    },
+    {
+      "question": "19 Đặc điểm của chuyên môn hóa công việc trong tổ chức là:",
+      "options": {
+        "A": "Người lao động có nhiều kỹ năng hơn",
+        "B": "Người lao động thường làm việc không hiệu quả",
+        "C": "Người lao động thực hiện một vài nhiệm vụ cụ thể",
+        "D": "Người lao động thực hiện nhiều nhiệm vụ"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 215
+    },
+    {
+      "question": "Phương pháp nào là căn cứ để xác định mục tiêu và giải pháp kế hoạch?",
+      "options": {
+        "A": "Phân tích môi trường",
+        "B": "Phân tích mục tiêu",
+        "C": "Xây dựng các phương án",
+        "D": "Đánh giá và lựa chọn phương án tối ưu"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 216
+    },
+    {
+      "question": "Quản lý xét theo quá trình là tương đối thống nhất đối với mọi tổ chức?",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 217
+    },
+    {
+      "question": "Chất lượng của quyết định quản lý chỉ phụ thuộc vào năng lực của nhà quản lý? A. Đúng",
+      "options": {
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 218
+    },
+    {
+      "question": "Một quyết định có tính hợp pháp là một quyết định có hiệu lực và hiệu quả cao? A. Đúng",
+      "options": {
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 219
+    },
+    {
+      "question": "Quy trình quyết định quản lý là quy trình ra quyết định quản lý?",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 220
+    },
+    {
+      "question": "Lập kế hoạch thực hiện quyết định là một nội dung trong quá trình tổ chức thực hiện quyế",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 221
+    },
+    {
+      "question": "Căn cứ duy nhất để ra quyết định quản lý là nguồn lực có thể sử dụng để thực hiện quyết",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 222
+    },
+    {
+      "question": "Phân tích điểm mạnh và điểm yếu trong ma trận SWOT thực chất là phân tích nhân tố môi chức?",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 223
+    },
+    {
+      "question": "Lập kế hoạch tác nghiệp là nhiệm vụ của nhà quản lý cấp cao?",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 224
+    },
+    {
+      "question": "Chiến lược là kết quả cuối cùng của phân tích và dự báo môi trường?",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 225
+    },
+    {
+      "question": "Đảm bảo các nguồn lực của tổ chức trong những hình thức nhất định để thực hiện các mụcủa chức năng tổ chức?",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 226
+    },
+    {
+      "question": "Trách nhiệm là bổn phận thực hiện các nhiệm vụ và các hoạt động được giao phó?",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 227
+    },
+    {
+      "question": "Các bộ phận trong tổ chức được hợp nhóm thành các bộ phận theo các sản phẩm và các của cơ cấu chức năng?",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 228
+    },
+    {
+      "question": "Theo học thuyết về động cơ của Herzberg, yếu tố tạo động lực nằm ngay trong môi trườnlàm việc, mối quan hệ trong tổ chức, chính sách của tổ chức và tiền lương, tiền thưởng?",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 229
+    },
+    {
+      "question": "Một người đang ở mức độ nhu cầu xã hội trong bậc thang nhu cầu của Maslow sẽ có độnggia vào quá trình ra quyết định của tổ chức?",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 230
+    },
+    {
+      "question": "Việc đặt ra mục tiêu rõ ràng, thách thức nhưng có thể đạt được sẽ góp phần tạo động lực",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 231
+    },
+    {
+      "question": "Kiểm soát phản hồi kết quả hoạt động là việc nhà quản lý kiểm soát chặt chẽ đầu vào và qviên?",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 232
+    },
+    {
+      "question": "Sau khi tiến hành đo lường và đánh giá kết quả hoạt động, nếu có sai lệch nhà quản lý cầnlệch càng sớm càng tốt?",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 233
+    },
+    {
+      "question": "Mọi bộ phận, nhân viên cần phải tham gia vào quản lý chất lượng là triết lý quản lý chất lưong",
+      "options": {
+        "A": "Đúng",
+        "B": "sai"
+      },
+      "answer": null,
+      "needsReview": true,
+      "id": 234
+    }
+  ]
+}
